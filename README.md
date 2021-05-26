@@ -10,6 +10,6 @@ My Playground
 * Functional & OOP Paradigm
 
 
-- Sample projects have been used. -
+Sample projects have been used. -
 
 
